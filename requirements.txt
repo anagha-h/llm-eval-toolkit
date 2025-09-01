@@ -1,0 +1,11 @@
+transformers
+torch
+datasets
+numpy
+scikit-learn
+nltk
+flask
+matplotlib
+pandas
+rouge-score
+pytest
