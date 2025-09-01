@@ -1,6 +1,3 @@
-Sure! Here’s the improved README in **copy-paste-ready Markdown**:
-
-````markdown
 # LLM Evaluation Toolkit (SQuAD v1.1)
 
 A modular Python framework for evaluating **large language model (LLM) question-answering outputs** using the **SQuAD v1.1 dataset**.  
