@@ -12,4 +12,4 @@ using metrics such as BLEU (proxy for factuality).
 ## Quickstart
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python -m src.main
